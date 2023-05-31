@@ -9,7 +9,7 @@ At the moment, these are the skins I'm using the most:
 
 ## Ace4896 v8.5
 
-[Ace4896 v8.5](./Ace4986%20v8.5.png)
+![Ace4896 v8.5](./Ace4986%20v8.5.png)
 
 Mashup of several skins:
 
@@ -18,19 +18,19 @@ Mashup of several skins:
 
 ## Ace4896 v8.5 (DT Ver.)
 
-[Ace4896 v8.5 (DT Ver.)](./Ace4986%20v8.5%20(DT%20Ver.).png)
+![Ace4896 v8.5 (DT Ver.)](./Ace4986%20v8.5%20(DT%20Ver.).png)
 
 Same as v8.5, but gameplay elements are taken from an old Cookiezi DT skin.
 
 ## Komori - Pengu_Lian(PwV)
 
-[Komori - Pengu_Lian(PwV)](./Komori%20-%20Pengu_Lian(PwV).png)
+![Komori - Pengu_Lian(PwV)](./Komori%20-%20Pengu_Lian(PwV).png)
 
 [Skin showcase by Komori](https://youtu.be/z9HFrDRSMhs). I use `2cursor` with idke's cursortrail.
 
 ## Narukiko - 花里みのり (Vaxei 2023)
 
-[Narukiko - 花里みのり (Vaxei 2023)](./Narukiko%20-%20Hanasato%20Minori%20(%E8%8A%B1%E9%87%8C%E3%81%BF%E3%81%AE%E3%82%8A)%20%5BVaxei%202023%5D.png)
+![Narukiko - 花里みのり (Vaxei 2023)](./Narukiko%20-%20Hanasato%20Minori%20(%E8%8A%B1%E9%87%8C%E3%81%BF%E3%81%AE%E3%82%8A)%20%5BVaxei%202023%5D.png)
 
 Mashup of two skins:
 
