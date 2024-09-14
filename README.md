@@ -4,8 +4,8 @@ This is a collection of various osu! skins that I use.
 
 At the moment, these are the skins I'm using the most:
 
-- Narukiko - 花里みのり (Vaxei 2023)
-- Narukiko - 花里みのり (FunOrange) - for DT
+- Narukiko - 花里みのり (Varvalian)
+- Narukiko - 花里みのり (boop edit) - for DT
 
 ## [Ace4896 v8.5](https://github.com/Ace4896/osu-skins/raw/master/Ace4896%20v8.5.osk)
 
