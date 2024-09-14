@@ -28,6 +28,16 @@ Same as v8.5, but gameplay elements are taken from an old Cookiezi DT skin.
 
 I use `2cursor` with idke's cursortrail.
 
+## [Narukiko - 花里みのり (boop edit)](https://github.com/Ace4896/osu-skins/raw/master/Narukiko%20-%20Hanasato%20Minori%20(花里みのり)%20[boop%20edit].osk)
+
+![Narukiko - 花里みのり (boop edit)](./Narukiko%20-%20Hanasato%20Minori%20(花里みのり)%20[boop%20edit].png)
+
+Mashup of two skins:
+
+- UI elements are from [Narukiko - Hanasato Minori (花里みのり)](https://youtu.be/hFUmveMKkME)
+- Gameplay elements are from [boop v1.0](https://skins.osuck.net/skins/1671?v=0)
+- Slider ball and follow-circle are edited to match Minori theme
+
 ## [Narukiko - 花里みのり (FunOrange)](https://github.com/Ace4896/osu-skins/raw/master/Narukiko%20-%20Hanasato%20Minori%20(%E8%8A%B1%E9%87%8C%E3%81%BF%E3%81%AE%E3%82%8A)%20%5BFunOrange%5D.osk)
 
 ![Narukiko - 花里みのり (FunOrange)](./Narukiko%20-%20Hanasato%20Minori%20(%E8%8A%B1%E9%87%8C%E3%81%BF%E3%81%AE%E3%82%8A)%20%5BFunOrange%5D.png)
